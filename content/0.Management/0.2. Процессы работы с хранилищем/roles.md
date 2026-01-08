@@ -152,4 +152,4 @@ Admin#Administrator:Management
 
 - [Структура хранилища](structure.md)
 - [Стандарты оформления](standards.md)
-- [Процессы работы](../0.3.Operations/workflows.md)
+- [Процессы работы](workflows.md)

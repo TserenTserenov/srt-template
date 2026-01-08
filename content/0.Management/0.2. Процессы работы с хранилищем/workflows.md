@@ -10,8 +10,8 @@ scope: local-edge
 target_audience: [contributors, administrators]
 related:
   - document-creation.md
-  - claude-fpf.md
-  - ../0.2.Architecture/roles.md
+  - roles.md
+  - ../../../CLAUDE.md
 fpf_principles:
   - practicality
   - incremental-improvement
@@ -176,6 +176,6 @@ docs/update-glossary
 ## Связанные документы
 
 - [Создание документов](document-creation.md)
-- [Claude Code и FPF](claude-fpf.md)
-- [Роли и ответственность](../0.2.Architecture/roles.md)
-- [Стандарты оформления](../0.2.Architecture/standards.md)
+- [Claude Code и FPF](../../../CLAUDE.md)
+- [Роли и ответственность](roles.md)
+- [Стандарты оформления](standards.md)

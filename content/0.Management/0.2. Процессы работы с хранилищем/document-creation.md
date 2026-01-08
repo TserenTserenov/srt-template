@@ -10,8 +10,8 @@ scope: local-edge
 target_audience: [contributors, ai-agents]
 related:
   - workflows.md
-  - claude-fpf.md
-  - ../0.2.Architecture/standards.md
+  - standards.md
+  - ../../../CLAUDE.md
 fpf_principles:
   - minimalism
   - metadata-first
@@ -140,9 +140,10 @@ tags: []
 **Обновить frontmatter:**
 
 ```yaml
+# Пример для системы 2 (System-of-Interest)
 related:
-  - ../0.1.Meaning/requirements.md
-  - ../0.3.Operations/implementation.md
+  - ../2.1.Meaning/requirements.md
+  - ../2.3.Operations/implementation.md
 ```
 
 **Обновить связанные документы** — добавить обратную ссылку!
@@ -234,5 +235,5 @@ git push -u origin feature/add-document-name
 ## Связанные документы
 
 - [Процессы работы](workflows.md)
-- [Стандарты оформления](../0.2.Architecture/standards.md)
-- [Claude Code и FPF](claude-fpf.md)
+- [Стандарты оформления](standards.md)
+- [Claude Code и FPF](../../../CLAUDE.md)
