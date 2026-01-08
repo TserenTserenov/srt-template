@@ -54,8 +54,7 @@ fpf_patterns:
 │   ├── roles.md                           # Роли и ответственность
 │   ├── document-creation.md               # Создание документов
 │   ├── workflows.md                       # Рабочие процессы
-│   ├── frontmatter-spec.md                # Спецификация метаданных
-│   └── claude-fpf.md                      # Интеграция Claude + FPF
+│   └── frontmatter-spec.md                # Спецификация метаданных
 │
 ├── 0.3. Планы и совещания/                # Координация
 │   └── README.md

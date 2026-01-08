@@ -156,8 +156,7 @@ content/0.Management/
 │   ├── roles.md                       # Роли и ответственность
 │   ├── document-creation.md           # ⭐ Создание документов
 │   ├── workflows.md                   # Рабочие процессы
-│   ├── frontmatter-spec.md            # ⭐ Спецификация frontmatter
-│   └── claude-fpf.md                  # Интеграция Claude + FPF
+│   └── frontmatter-spec.md            # ⭐ Спецификация frontmatter
 ├── 0.3. Планы и совещания/            # Координация
 ├── 0.4. Автоматические отчёты ИИ/     # Автоотчёты AI
 ├── 0.9. Входящие/                     # Входящие идеи
@@ -213,7 +212,7 @@ content/{N}.{System}/{N}.{M}.{Role}/document-name.md
 ```
 
 Примеры:
-- `content/0.Management/0.1.Meaning/project-vision.md`
+- `content/0.Management/0.1. Логика хранилища и знаний/principles.md`
 - `content/2.System-of-Interest/2.2.Architecture/api-schema.md`
 - `content/3.Constructor/3.3.Operations/ci-cd-pipeline.md`
 

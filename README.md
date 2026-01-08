@@ -229,18 +229,18 @@ Constructor: [Ваше название]
 
 ```
 content/
-├── 0.Management/            # F0 — Управление (без изменений)
-│   └── 0.1.Meaning/
-│       └── project-glossary.md  # Глоссарий ВАШЕГО проекта
-├── 1.[Suprasystem]/         # F1-F3 (переименовано)
+├── 0.Management/                          # F0 — Управление (без изменений)
+│   └── 0.1. Логика хранилища и знаний/
+│       └── project-glossary.md            # Глоссарий ВАШЕГО проекта
+├── 1.[Suprasystem]/                       # F1-F3 (переименовано)
 │   └── 1.1.Meaning/
-│       └── context.md       # F1: Описание контекста
-├── 2.[System-of-Interest]/  # F4-F6 (переименовано)
+│       └── context.md                     # F1: Описание контекста
+├── 2.[System-of-Interest]/                # F4-F6 (переименовано)
 │   └── 2.1.Meaning/
-│       └── requirements.md  # F4: Основные требования
-└── 3.[Constructor]/         # F7-F9 (переименовано)
+│       └── requirements.md                # F4: Основные требования
+└── 3.[Constructor]/                       # F7-F9 (переименовано)
     └── 3.1.Meaning/
-        └── principles.md    # F7: Принципы разработки
+        └── principles.md                  # F7: Принципы разработки
 ```
 
 ---

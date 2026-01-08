@@ -186,5 +186,5 @@ fpf_patterns:
 
 - [Глоссарий](glossary.md)
 - [Классификация и теги](taxonomy.md)
-- [Структура хранилища](../0.2.Architecture/structure.md)
+- [Структура хранилища](../0.2.%20Процессы%20работы%20с%20хранилищем/structure.md)
 - [.fpf/INDEX.md](../../../.fpf/INDEX.md)

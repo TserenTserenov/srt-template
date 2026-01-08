@@ -32,7 +32,8 @@ fpf_patterns:
 | [document-creation.md](document-creation.md) | Процесс создания документов |
 | [workflows.md](workflows.md) | Рабочие процессы |
 | [frontmatter-spec.md](frontmatter-spec.md) | Спецификация метаданных (frontmatter) |
-| [claude-fpf.md](claude-fpf.md) | Интеграция Claude и FPF |
+
+> **Для интеграции Claude Code и FPF** см. [CLAUDE.md](../../../CLAUDE.md) в корне репозитория.
 
 ## Что здесь размещается
 
