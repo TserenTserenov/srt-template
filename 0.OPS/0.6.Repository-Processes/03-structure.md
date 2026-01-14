@@ -59,7 +59,8 @@ s2r/
 │   ├── 04-document-creation.md
 │   ├── 05-frontmatter-spec.md
 │   ├── 06-workflows.md
-│   └── 07-roles.md
+│   ├── 07-roles.md
+│   └── 08-deployment-guide.md   # ⭐ Руководство по развёртыванию
 ├── 0.7.Plans-and-Meetings/      # Планирование и совещания
 ├── 0.9.Inbox/                   # Входящие идеи и предложения
 └── 0.99.Archive/                # Архив
