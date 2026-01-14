@@ -23,6 +23,7 @@ scope: repository
 | 06 | [06-taxonomy.md](06-taxonomy.md) | Система классификации документов |
 | 07 | [07-naming.md](07-naming.md) | Соглашения об именовании |
 | 08 | [08-anti-patterns.md](08-anti-patterns.md) | Анти-паттерны (типичные ошибки) |
+| 09 | [09-examples-library.md](09-examples-library.md) | Библиотека примеров для AI |
 
 ## Принцип
 
