@@ -145,4 +145,4 @@ B.Our-System/B3.Constructor/B3.3.Operations/team-structure.md
 ## См. также
 
 - [06-taxonomy.md](06-taxonomy.md) — классификация документов
-- [../0.6.Repository-Processes/standards.md](../0.6.Repository-Processes/standards.md) — стандарты
+- [../0.6.Repository-Processes/02-standards.md](../0.6.Repository-Processes/02-standards.md) — стандарты

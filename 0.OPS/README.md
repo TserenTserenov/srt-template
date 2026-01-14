@@ -49,10 +49,15 @@ F0 **не делится по ролям** (Предприниматель/Ин�
 | [02-document-families.md](0.1.Knowledge-Logic/02-document-families.md) | 0.1 | Модель 9 семейств внутри каждого ядра |
 | [03-our-systems-map.md](0.1.Knowledge-Logic/03-our-systems-map.md) | 0.1 | Карта "наших систем" |
 | [04-ontology.md](0.1.Knowledge-Logic/04-ontology.md) | 0.1 | Общая онтология |
+| [05-glossary.md](0.1.Knowledge-Logic/05-glossary.md) | 0.1 | Глоссарий терминов |
+| [07-naming.md](0.1.Knowledge-Logic/07-naming.md) | 0.1 | Соглашения об именовании |
+| [08-anti-patterns.md](0.1.Knowledge-Logic/08-anti-patterns.md) | 0.1 | Анти-паттерны (типичные ошибки) |
+| [09-examples-library.md](0.1.Knowledge-Logic/09-examples-library.md) | 0.1 | Библиотека примеров для AI |
 | [01-value-chain.md](0.2.Kernels-Bridge/01-value-chain.md) | 0.2 | Цепочка создания ценности |
 | [roles-matrix.md](0.3.Roles-Matrix-3x3/roles-matrix.md) | 0.3 | Матрица ролей 3×3 (полная) |
 | [roles-matrix-brief.md](0.3.Roles-Matrix-3x3/roles-matrix-brief.md) | 0.3 | Матрица ролей 3×3 (краткая) |
 | [fpf-integration.md](0.4.FPF-Integration/fpf-integration.md) | 0.4 | Интеграция с FPF |
+| [01-project-description-template.md](0.6.Repository-Processes/01-project-description-template.md) | 0.6 | Шаблон описания проекта |
 
 ## Связи
 

@@ -506,8 +506,8 @@ mkdir -p C.Recommendation-Engine/C3.ML-Team/C3.{1,2,3}.{Meaning,Architecture,Ope
 ### Шаг 6: Обнови связи
 
 1. Обнови [03-our-systems-map.md](03-our-systems-map.md)
-2. Обнови [../0.2.Kernels-Bridge/value-chain.md](../0.2.Kernels-Bridge/value-chain.md)
-3. Обнови [../0.2.Kernels-Bridge/kernels-relations.md](../0.2.Kernels-Bridge/kernels-relations.md)
+2. Обнови [../0.2.Kernels-Bridge/01-value-chain.md](../0.2.Kernels-Bridge/01-value-chain.md)
+3. Обнови [../0.2.Kernels-Bridge/02-kernels-relations.md](../0.2.Kernels-Bridge/02-kernels-relations.md)
 
 ## Когда создавать новое ядро?
 
@@ -539,9 +539,9 @@ mkdir -p C.Recommendation-Engine/C3.ML-Team/C3.{1,2,3}.{Meaning,Architecture,Ope
 ## Связи между ядрами
 
 Связи описываются в `0.2.Kernels-Bridge/`:
-- `value-chain.md` — цепочка создания ценности
-- `kernels-relations.md` — матрица связей
-- `systems-hierarchy.md` — иерархия вложенности
+- `01-value-chain.md` — цепочка создания ценности
+- `02-kernels-relations.md` — матрица связей
+- `03-systems-hierarchy.md` — иерархия вложенности
 
 ## Связь с FPF
 
@@ -556,4 +556,4 @@ mkdir -p C.Recommendation-Engine/C3.ML-Team/C3.{1,2,3}.{Meaning,Architecture,Ope
 
 - [02-document-families.md](02-document-families.md) — 9 семейств внутри ядра
 - [03-our-systems-map.md](03-our-systems-map.md) — карта наших систем
-- [../0.2.Kernels-Bridge/value-chain.md](../0.2.Kernels-Bridge/value-chain.md) — цепочка ценности
+- [../0.2.Kernels-Bridge/01-value-chain.md](../0.2.Kernels-Bridge/01-value-chain.md) — цепочка ценности
